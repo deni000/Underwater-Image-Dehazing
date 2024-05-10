@@ -4,7 +4,7 @@ This project provides a Python script for dehazing underwater images using the D
 
 ## Installation
 - Clone the repository:
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/deni000/Underwater-Image-Dehazing.git
 
 - Install the required Python dependencies:
 pip install -r requirements.txt
